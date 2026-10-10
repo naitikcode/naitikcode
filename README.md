@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Naitik Kumar 👋
 
-<!--
-**naitikcode/naitikcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate learner from Delhi, on my way to become a Software Developer.
+Currently started my journey with Web Development.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 📍 From Delhi, India
+- 🌱 Currently learning: HTML, CSS, JavaScript
+- 🎯 Long term goal: To become a Software Developer
+- 🛠️ Building small projects daily to improve my logic
+- 💡 Believes in learning by doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+`HTML` `CSS` `JavaScript` `Python` `Git` `GitHub`
+
+---
+> "Every expert was once a beginner."
+
+Thanks for visiting my profile! Let's connect and grow together.
